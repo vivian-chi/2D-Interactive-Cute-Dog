@@ -1,3 +1,4 @@
+<img width="449" height="272" alt="Screenshot 2026-05-02 at 8 22 40 PM" src="https://github.com/user-attachments/assets/75f13bd7-9368-44cf-85c7-354b194efee3" />
 # 🐕 Cute Dog: Interactive 2D Animation State Machine
 
 A high-fidelity, interactive 2D animation project featuring a responsive "Cute Dog" character. Built with **Vanilla JavaScript** and **Canvas API**, this project demonstrates a complex state machine for character behavior, including click-and-drag interactions, dynamic chasing logic, and smooth animation transitions.
@@ -5,6 +6,9 @@ A high-fidelity, interactive 2D animation project featuring a responsive "Cute D
 ![Cute Dog Animation](https://img.shields.io/badge/Animation-State%20Machine-orange?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-Canvas-blue?style=for-the-badge&logo=html5)
+![Uploading Screenshot 2026-05-02 at 8.22.40 PM.png…]()
+[Click here for the Live Demo](https://vivian-chi.github.io/2D-Interactive-Cute-Dog/)
+
 
 ## ✨ Key Features
 
