@@ -43,7 +43,7 @@ Simply open `index.html` in any modern web browser.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/vivian-chi/2D-Interactive-Cute-Dog.git]
+git clone https://github.com/vivian-chi/2D-Interactive-Cute-Dog.git
 
 # Navigate to the directory
 cd cute-dog
